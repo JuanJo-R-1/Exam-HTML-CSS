@@ -1,0 +1,52 @@
+@media (max-width: 1000px){
+    body{
+        font-style: italic;
+        width: 100%;
+        height: auto;
+    }
+    .background{
+        background: linear-gradient(to bottom, white, 18%, rgb(38, 86, 109), 0%);
+    }
+    img{
+        width: 96%;
+        height: 650px;
+    }
+    .btn-1{
+        margin: 5% 20% 5%;
+        padding: 13px 90px;
+        border: 1px rgb(23, 114, 148) solid;
+        border-radius: 10px;
+        align-items: center;
+        color: black;
+        background-color: rgb(23, 114, 148);
+    }
+    .btn-1:hover{
+        background-color: rgb(37, 95, 146);
+    }
+    .btn-2:hover{
+        background-color: rgb(136, 136, 136);
+
+    }
+    .btn-2{
+        margin: 5% 19% 10%;
+        padding: 13px 90px;
+        border: 1px white solid;
+        border-radius: 10px;
+        align-items: center;
+        background-color: white;
+    }
+    .linka{
+        text-decoration: none;
+        font-style: italic;
+        color: rgb(255, 255, 255);
+    }
+    .linkb{
+        text-decoration: none;
+        font-style: italic;
+        color: black;
+    }
+    .tomainlink{
+        padding: 1% 29%;
+        color: rgb(16, 23, 80);
+    }
+}
